@@ -5,3 +5,7 @@ content:
   - name: posts
     type: collection
     path: blog
+    view:
+      fields: [title, description, pubDate, heroImage]
+      
+    
