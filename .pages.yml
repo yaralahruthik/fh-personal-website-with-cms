@@ -16,7 +16,7 @@ content:
         label: Published Date
         type: date
         options:
-          format: MMM dd YYYY
+          format: MMM dd yyyy
       - name: heroImage
         label: Hero Image
         type: image
