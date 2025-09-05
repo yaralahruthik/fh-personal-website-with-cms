@@ -6,6 +6,6 @@ content:
     type: collection
     path: blog
     view:
-      fields: [title, description, pubDate]
+      fields: [title, description, pubDate, heroImage]
       
     
