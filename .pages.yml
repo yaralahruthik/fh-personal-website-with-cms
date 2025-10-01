@@ -1,3 +1,7 @@
 media:
   input: blog/assets
   output: assets
+content:
+  - name: posts
+    type: collection
+    path: blog
