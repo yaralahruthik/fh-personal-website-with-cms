@@ -19,4 +19,4 @@ content:
         label: Hero Image
         type: image
     view:
-      fields: [title, description]
+      fields: [title, description, pubDate, heroImage]
